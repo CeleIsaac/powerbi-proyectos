@@ -2,9 +2,9 @@
 Portafolio de proyectos en Power BI
 
 
- # 📊 Análisis de Utilidad y Margen - Power BI  
+ ## 📊 Análisis de Utilidad y Margen - Power BI  
 
-## 📌 Descripción  
+### 📌 Descripción  
 
 Este proyecto se basa en una empresa ficticia llamada Appol. 
 
@@ -14,12 +14,12 @@ El equipo directivo requiere conocer indicadores de Utilidad y % de Margen, con 
 y a partir de esta información poder tomar decisiones y desarrollar estrategias.
  
 
-## 📂 Archivos  
+### 📂 Archivos  
 
 - [Descargar Appol.pbix](https://github.com/CeleIsaac/powerbi-proyectos/raw/main/Appol.pbix)
 
 
-## 📈 Dashboard  
+### 📈 Dashboard  
 
 ![Regiones](https://github.com/CeleIsaac/powerbi-proyectos/blob/main/Regiones.png)
 
@@ -28,12 +28,12 @@ y a partir de esta información poder tomar decisiones y desarrollar estrategias
 
 
 
-## ⚙️ Tecnologías utilizadas  
+### ⚙️ Tecnologías utilizadas  
 - Power BI  
 - Power Query (para limpieza de datos)  
 - Excel  (fuente de datos)
 
-## ✨ Autor  
+### ✨ Autor  
 📧 Contacto: isaacmceleste@gmail.com
 
 👩‍💻 LinkedIn: https://www.linkedin.com/in/mcelesteisaac/
